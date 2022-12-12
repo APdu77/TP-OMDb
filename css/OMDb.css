@@ -1,0 +1,19 @@
+#menu{
+    margin-bottom: 14px;
+}
+
+
+figure{
+    text-align: center; 
+    border: solid black;  
+}
+
+figcaption{
+    text-align: center;
+}
+
+img{
+    border: solid black;
+    border-top: none;
+}
+
